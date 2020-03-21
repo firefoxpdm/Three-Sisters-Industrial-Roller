@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+<name>Three Sisters Industrial Roller</name>
+<author>FireFoX</author>
+<url>https://github.com/firefoxpdm/Three-Sisters-Industrial-Roller</url>
+	<supportedVersions>
+        <li>1.1</li>
+    </supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>historic.IndustrialRollers</packageId>
+			<displayName>Industrial Rollers</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/784327493</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>dismarzero.VGP.VGPThreeSistersPlants</packageId>
+			<displayName>VGP Three Sisters Plants</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2007063848</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+<description>	Mod Version: 1.1.0
+
+*** Example Load Order ***
+- Core
+- VGP Three Sisters Plants
+- Industrial Rollers
+- Three Sisters Industrial Roller
+
+Allows the three sister plants to be picked up by the green puller.
+
+To contact me please use the github page. I'm not promising any quick responses.
+</description>
+
+</ModMetaData>
